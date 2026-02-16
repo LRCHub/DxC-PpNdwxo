@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホエア・ハヴ・ユー・ビーン",
+  "base_artist": "Rihanna",
+  "createdAt": "2026-02-16T07:59:56.213987Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Where_Have_You_Been_Rihanna.txt"
+    }
+  ]
+}
